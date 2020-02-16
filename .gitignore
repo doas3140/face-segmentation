@@ -1,5 +1,10 @@
 # Lib
 data/images/
+data/camvid/
+data/coco/
+data/multi/
+data/FASSEG/
+models/
 
 # Other
 *.bak
